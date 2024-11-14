@@ -1,0 +1,138 @@
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\ZstdSharp.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\Google.Protobuf.pdb
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\Google.Protobuf.xml
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmClientes.resources
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCompras.resources
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleCompra.resources
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleVenta.resources
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmNegocio.resources
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProducto.resources
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedores.resources
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCompras.resources
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReportes.resources
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteVentas.resources
+C:\Users\Usuario\OneDrive\Escritorio\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\ZstdSharp.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\Google.Protobuf.pdb
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\Google.Protobuf.xml
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmClientes.resources
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCompras.resources
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleCompra.resources
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleVenta.resources
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmNegocio.resources
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProducto.resources
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedores.resources
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCompras.resources
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReportes.resources
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteVentas.resources
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\ClosedXML.Parser.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\RBush.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\ClosedXML.Parser.xml
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\RBush.xml
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Usuario\OneDrive\Escritorio\TAREA PROYECTO\VETERINARIA\VETERINARIA\CapaPresentacion\bin\Debug\System.IO.Packaging.xml
