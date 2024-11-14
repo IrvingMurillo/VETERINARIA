@@ -99,5 +99,33 @@ namespace CapaPresentacion.Properties {
                 return ((byte[])(obj));
             }
         }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a -- Eliminar la base de datos si ya existe para evitar duplicados
+        ///DROP DATABASE IF EXISTS veterinaria_db;
+        ///
+        ///-- Crear una nueva base de datos
+        ///CREATE DATABASE veterinaria_db;
+        ///
+        ///-- Usar la base de datos recién creada
+        ///USE veterinaria_db;
+        ///
+        ///-- ===========================
+        ///-- 1. Crear la tabla ROL
+        ///-- ===========================
+        ///CREATE TABLE ROL (
+        ///    IdRol INT PRIMARY KEY AUTO_INCREMENT,
+        ///    Descripcion VARCHAR(100),
+        ///    FechaRegistro DATETIME DEFAULT CURRENT_TIMESTAMP
+        ///);
+        ///
+        ///-- ===========================
+        ///-- 2. Crear la [resto de la cadena truncado]&quot;;.
+        /// </summary>
+        internal static string veterinaria_db {
+            get {
+                return ResourceManager.GetString("veterinaria_db", resourceCulture);
+            }
+        }
     }
 }
